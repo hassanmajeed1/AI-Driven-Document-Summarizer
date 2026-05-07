@@ -11,6 +11,8 @@ The system supports multiple document formats (PDF, DOCX, TXT) and delivers both
 
 ## Demo
 
+https://github.com/user-attachments/assets/51f65d24-5099-40eb-bb7e-24e7fdc619aa
+
 <p align="left">
 <img src="assets/app_screenshot.png" width="900" />
 </p>
